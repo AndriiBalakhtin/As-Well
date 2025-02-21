@@ -28,7 +28,7 @@ Our vision for **As Well** is to create a truly universal messaging platform, br
 
 **As Well** is released under the **All Rights Reserved** license. All intellectual property rights, including copyrights and trademarks, are exclusively owned by the copyright holders. You are not authorized to modify, distribute, or otherwise use this software without explicit written permission.
 
-For any licensing inquiries, please contact [your contact information].
+For any licensing inquiries, please contact [aswella.com].
 
 ---
 
