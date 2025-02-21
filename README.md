@@ -1,4 +1,4 @@
-# As Well – The Ultimate Messenger Unifying Platforms
+## **As Well** – The Ultimate Messenger Unifying Platforms
 
 **As Well** is a next-generation messaging application built to seamlessly integrate all your favorite communication platforms into one unified interface. Initially, it focuses on integrating **Telegram** and **Discord**, enabling users to effortlessly manage conversations across these services without the need to toggle between multiple apps.
 
@@ -20,7 +20,7 @@ Our vision for **As Well** is to create a truly universal messaging platform, br
 - **Developer**: Backend & Frontend - Andrii Balakhtin (Aswella)
 - **Design & Mascot Concept**: Frontend - Katerina Balandina  (Yukorei)
 
-## 📜 License for As Well
+## 📜 License for **As Well**
 
 **As Well** is released under the **All Rights Reserved** license. All intellectual property rights, including copyrights and trademarks, are exclusively owned by the copyright holders. You are not authorized to modify, distribute, or otherwise use this software without explicit written permission.
 
