@@ -26,7 +26,9 @@ Our vision for **As Well** is to create a truly universal messaging platform, br
 
 ## 📜 License for As Well
 
-**As Well** is released under the **MIT License**. You are free to use, modify, and distribute the software under the terms of the license. Here are the full terms and conditions:
+**As Well** is released under the **All Rights Reserved** license. All intellectual property rights, including copyrights and trademarks, are exclusively owned by the copyright holders. You are not authorized to modify, distribute, or otherwise use this software without explicit written permission.
+
+For any licensing inquiries, please contact [your contact information].
 
 ---
 
