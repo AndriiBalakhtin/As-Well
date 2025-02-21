@@ -2,8 +2,6 @@
 
 **As Well** is a next-generation messaging application built to seamlessly integrate all your favorite communication platforms into one unified interface. Initially, it focuses on integrating **Telegram** and **Discord**, enabling users to effortlessly manage conversations across these services without the need to toggle between multiple apps.
 
----
-
 ## 🚀 Key Features:
 
 - **Unified Messaging Experience**: Streamline communication by managing your Telegram and Discord chats from a single, intuitive interface.
@@ -13,20 +11,14 @@
 - **Customizable User Experience**: Tailor your app with smart notifications, theme options, and an intuitive interface designed with both **developers** and **power users** in mind.
 - **Seamless Updates & Expansions**: As Well is continuously evolving. Future updates will include integrations with other popular messaging services, bringing you an even more expansive and unified communication tool.
 
----
-
 ## 🌟 Future Expansions:
 
 Our vision for **As Well** is to create a truly universal messaging platform, bringing all major services into one cohesive experience. Stay tuned for upcoming platform integrations that will keep you connected in ways never before possible.
-
----
 
 ## 👨‍💻 Development & Design Team:
 
 - **Developer**: Andrii Balakhtin (Aswella)
 - **Design & Mascot Concept**: Katerina Balakina (Yukorei)
-
----
 
 ## 📜 License for As Well
 
