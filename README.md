@@ -17,8 +17,8 @@ Our vision for **As Well** is to create a truly universal messaging platform, br
 
 ## 👨‍💻 Development & Design Team:
 
-- **Developer**: Andrii Balakhtin (Aswella)
-- **Design & Mascot Concept**: Katerina Balakina (Yukorei)
+- **Developer**: Backend & Frontend - Andrii Balakhtin (Aswella)
+- **Design & Mascot Concept**: Frontend - Katerina Balandina  (Yukorei)
 
 ## 📜 License for As Well
 
