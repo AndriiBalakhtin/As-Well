@@ -1,18 +1,34 @@
-**As Well – The Ultimate Messenger Unifying Platforms**
+# As Well – The Ultimate Messenger Unifying Platforms
 
-As Well is a next-generation messenger designed to bring all your favorite messaging platforms into one seamless interface. Our initial focus is on integrating Telegram and Discord, allowing users to communicate effortlessly across these services without constantly switching apps.
+**As Well** is a next-generation messaging application built to seamlessly integrate all your favorite communication platforms into one unified interface. Initially, it focuses on integrating **Telegram** and **Discord**, enabling users to effortlessly manage conversations across these services without the need to toggle between multiple apps.
 
-🚀 Key Features:
+## 🚀 Key Features:
 
-Unified Messaging: Easily manage conversations from Telegram and Discord in a single application.
-Cross-Platform Compatibility: Available on Windows, macOS, and Linux, with plans for mobile support in the future.
-Deep Integration: Stay connected with real-time updates, notifications, and synchronized chats across services.
-Security & Privacy: Built with end-to-end encryption support and OAuth authentication for safe access.
-Customizable Experience: Smart notifications, theme options, and an intuitive UI tailored for developers and power users.
-🌟 Future Expansions:
-As Well aims to integrate even more messaging platforms over time, unifying communication across all major services while keeping the experience smooth, fast, and user-friendly.
+- **Unified Messaging Experience**: Streamline communication by managing your Telegram and Discord chats from a single, intuitive interface.
+- **Cross-Platform Compatibility**: As Well is available on **Windows**, **macOS**, and **Linux**, with future plans for mobile support on **iOS** and **Android**.
+- **Deep Service Integration**: Stay connected with real-time updates, notifications, and synchronized chats across all integrated messaging platforms.
+- **Security & Privacy**: Your privacy is our top priority. As Well offers **end-to-end encryption** and **OAuth authentication**, ensuring safe and secure access to your accounts.
+- **Customizable User Experience**: Tailor your app with smart notifications, theme options, and an intuitive interface designed with both **developers** and **power users** in mind.
+- **Seamless Updates & Expansions**: As Well is continuously evolving. Future updates will include integrations with other popular messaging services, bringing you an even more expansive and unified communication tool.
 
-👨‍💻 Development & Design:
+## 🌟 Future Expansions:
 
-Developer: Andrii Balakhtin / Aswella
-Design & Mascot Concept: Katerina Balakina / yukorei
+Our vision for **As Well** is to create a truly universal messaging platform, bringing all major services into one cohesive experience. Stay tuned for upcoming platform integrations that will keep you connected in ways never before possible.
+
+---
+
+## 👨‍💻 Development & Design Team:
+
+- **Developer**: Andrii Balakhtin (Aswella)
+- **Design & Mascot Concept**: Katerina Balakina (Yukorei)
+
+---
+
+## 📜 License for As Well
+
+**As Well** is released under the **MIT License**. You are free to use, modify, and distribute the software under the terms of the license. Here are the full terms and conditions:
+
+---
+
+### MIT License
+
